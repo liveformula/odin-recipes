@@ -1,0 +1,23 @@
+div {
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+}
+p {
+    color:rgb(204, 23, 23);
+    font-family: arial;
+    font-size:20px;
+    font-weight: bold;
+}
+.one {
+    font-family: times;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(7, 250, 238);
+}
+#two {
+    font-family: times;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(7, 250, 238);
+}
